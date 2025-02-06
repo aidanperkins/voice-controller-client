@@ -1,0 +1,13 @@
+.dockerignore
+.vscode
+/Include
+/share
+/Scripts
+/logs
+/Lib
+/ENV_DIR
+/__pycache__
+pyvenv.cfg
+pyenv.cfg
+Dockerfile
+file_paths.json
